@@ -1,0 +1,11 @@
+body{
+    font-family: Open Sans, sans-serif;
+    /* margin: 4em 0; */
+}
+
+.bg-dark {
+    background-color: #034d97!important;
+}
+.contact{
+    width: 100%;
+}
